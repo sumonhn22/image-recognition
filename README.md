@@ -2,13 +2,12 @@
   <img src="https://user-images.githubusercontent.com/46085301/139594375-790141df-482f-4a21-9b19-c0e47f2033f2.png" height="150"/>
   <br/>
   <b>Image Recognition App using FastAPI and PyTorch</b><br/>
-In this project, I have tried to build and deploy an Image Recognition App using FastAPI and
-PyTorch.
+In this project, you can learn how to build an app for Image Recognition using FastAPI and Heroku.
 </P>
 
-## Tutorial <img src="https://user-images.githubusercontent.com/46085301/143214249-d6244995-1fdb-4c3f-b721-e65403a89607.gif" alt="Youtube gif" height="30"/>
+## Tutorial <img src="https://user-images.githubusercontent.com/46085301/143214249-d6244995-1fdb-4c3f-b721-e65403a8960.gif" alt="Youtube gif" height="30"/>
 
-[![fastapi pytorch image recognition](https://user-images.githubusercontent.com/46085301/143211855-fe73e3b0-fc8c-4aa4-8428-e93cc16d6dfd.png)](https://youtu.be/7Rm5mGhYWVI)
+[![fastapi pytorch image recognition](https://user-images.githubusercontent.com/46085301/143211855-fe73e3b0-fc8c-4aa4-8428-e93cc16d6df.png)](https://youtu.be/7Rm5mGhYWVI)
 
 ## Installation
 Run my Project
